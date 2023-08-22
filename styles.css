@@ -104,6 +104,7 @@ select {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 1.5rem;    
 }
 
 .container {
@@ -111,6 +112,7 @@ select {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    gap: 2rem;
     max-width: 60rem;
 }
 
