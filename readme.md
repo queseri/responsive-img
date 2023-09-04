@@ -12,10 +12,5 @@
 ![Tablet at 900px - image has explicit sizes](screenshots/tablet-scr-sizes.png)
 ![Desktop - image has explicit sizes](screenshots/desktop-explicit-sizes.png)
 
-<video src="screenshots/image-without-sizes-edit.mp4" controls title="image without sizes"></video>
-<figure class="video_container">
-<video  controls="true" allowfullscreen="true" title="image with sizes">
- <source src="screenshots/image-with-sizes-edit.mp4" type="video/mp4">
-</video>
-
-</figure>
+![image without sizes video demostration](screenshots/image-without-sizes-edit.mp4)
+![image with sizes video demo](screenshots/image-with-sizes-edit.mp4)
