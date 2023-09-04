@@ -11,3 +11,5 @@
 ![Mobile at 375px - image has explicit sizes ](screenshots/mobile-scr-sizes.png)
 ![Tablet at 900px - image has explicit sizes](screenshots/tablet-scr-sizes.png)
 ![Desktop - image has explicit sizes](screenshots/desktop-explicit-sizes.png)
+
+<video src="screenshots/img-with-sizes-demo.mp4" controls title="Demostrating an image with sizes versus no sizes"></video>
